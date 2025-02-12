@@ -1,5 +1,5 @@
 # FIFO-Server
-Bash project for University in which we emulated a client-server communication system
+Bash project for University in which a client-server communication system had to be emulated
 
 # The task:
 Write a client-server program using Bash that uses special FIFO files as communication channels between clients and the server. The server uses a FIFO file with a known name (well-known FIFO), configurable in a configuration file. The server receives requests from clients for manual pages related to different commands through the FIFO file. The format of the client requests is as follows:
